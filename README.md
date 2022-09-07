@@ -1,4 +1,4 @@
-## Hey there, I'm Luke!
+## Hey there, I'm Luke! 👋
 
 <img src="assets/avatar-waving.gif" alt="animated avatar gif" width="150"/>
 
@@ -10,12 +10,15 @@
 
 - 😄 Pronouns: he/him
 
+- ⚡ Fun fact: I just recently picked up volleyball. I'm not great yet, but I'm loving it! 🏐
 
-## In my free time
+## In my free time 👾
 
 <img src="assets/avatar-fun.gif" alt="animated avatar gif" width="150"/>
 
 - I'm exploring generative art and VR gaming - shoot me a message if you want to collaborate on something!
+
+- I occasionally find time for videogames - as of last update, I'm playing through the RE4 port on the Quest 🥽🧟‍♂️
 
 <!--
 **lfraker/lfraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
