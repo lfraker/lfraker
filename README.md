@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="assets/avatar.gif" alt="animated avatar gif" width="150"/>
 
-<img src="avatar.gif" alt="animated avatar gif" width="150"/>
+<img src="assets/avatar.gif" alt="animated avatar gif" width="150"/>
 
 <!--
 **lfraker/lfraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
