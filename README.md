@@ -2,7 +2,7 @@
 
 <img src="assets/avatar-waving.gif" alt="animated avatar gif" width="150"/>
 
-- 🔭 I’m currently working on [coBlossom](https://www.coblossom.com/) and freelance projects on the side
+- 🔭 I’m currently working on an orthodontic mobile app, launching soon and a portal to make discovering grants easier
 
 - 💬 Ask me about freelance software consulting/dev work, or mixing a programming background with an MBA 🎓
 
@@ -10,13 +10,13 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I just recently picked up volleyball. I'm not great yet, but I'm loving it! 🏐
+- ⚡ Fun fact: You can catch me playing beach volleyball in my free time! 🏐
 
 ## In my free time 👾
 
 <img src="assets/avatar-fun.gif" alt="animated avatar gif" width="150"/>
 
-- I'm exploring generative art and VR gaming - shoot me a message if you want to collaborate on something!
+- You can catch me playing beach volleyball! 🏐
 
 - I occasionally find time for videogames - as of last update, I'm playing through the RE4 port on the Quest 🥽🧟‍♂️
 
