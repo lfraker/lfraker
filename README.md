@@ -10,8 +10,6 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: You can catch me playing beach volleyball in my free time! 🏐
-
 ## In my free time 👾
 
 <img src="assets/avatar-fun.gif" alt="animated avatar gif" width="150"/>
